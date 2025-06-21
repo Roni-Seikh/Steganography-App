@@ -46,15 +46,19 @@ This project was developed as part of the **Cyber Security Internship Program** 
 
 ---
 
-## 🚀 How to Run the App
+🚀 How to Run the App
+1. Clone the Repository
+bash
 
-### 1. Clone the Repo
-
-```bash
 git clone https://github.com/Roni-Seikh/Steganography-App.git
 cd Steganography-App
-2. Run the App
+
+3. Install Dependencies
 bash
+
+4. Run the App
+bash
+
 streamlit run app.py
 ---
 
