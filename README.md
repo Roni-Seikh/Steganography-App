@@ -53,10 +53,10 @@ bash
 git clone https://github.com/Roni-Seikh/Steganography-App.git
 cd Steganography-App
 
-3. Install Dependencies
+2. Install Dependencies
 bash
 
-4. Run the App
+3. Run the App
 bash
 
 streamlit run app.py
