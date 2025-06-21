@@ -27,23 +27,6 @@ This project was developed as part of the **Cyber Security Internship Program** 
 - 📁 Downloadable encoded image output
 - ❌ Built-in error handling for wrong passwords or invalid inputs
 
----
-
-## 📁 Folder Structure
-
-Steganography-App/
-├── app.py # Main Streamlit app
-├── steganography.py # Encoding/decoding logic
-├── README.md # Project documentation
-├── screenshot/ # App screenshots
-│ ├── user interface.png
-│ ├── encode message & password.png
-│ ├── encode message successfully.png
-│ ├── steganography image.png
-│ └── decode message successfully.png
-
----
-
 ## 🧪 Screenshots
 
 ### 🖥️ User Interface  
@@ -73,6 +56,7 @@ cd Steganography-App
 2. Run the App
 bash
 streamlit run app.py
+---
 
 💡 Skills Demonstrated
 🛡️ Cybersecurity Fundamentals
